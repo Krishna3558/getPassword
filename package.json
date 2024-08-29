@@ -1,6 +1,7 @@
 {
   "name": "passwordgenerator",
-  "private": true,
+  "homepage": " https://krishna3558.github.io/passwordGenerator",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
