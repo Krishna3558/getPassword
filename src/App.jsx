@@ -36,6 +36,7 @@ function App() {
 
   return (
     <div className=' w-full h-screen bg-black  flex justify-center'>
+      <button c>Light mode</button>
       <div className=' w-3/5 bg-slate-950 absolute top-14 rounded-xl'>
           <h1 className=' text-center px-4 text-white py-2'>Password Generator</h1>
           <div className='flex justify-center w-full py-3 px-4 rounded-xl'>
